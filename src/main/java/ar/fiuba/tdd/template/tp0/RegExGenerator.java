@@ -11,6 +11,10 @@ public class RegExGenerator {
     //    this.maxLength = maxLength;
     //}hay que terminar
 
+
+    //}hola mundo
+// otro comentarios 
+// agregamos funciones
     // TODO: Uncomment parameters
     public List<String> generate(/*String regEx, int numberOfResults*/) {
         return new ArrayList<String>() {
