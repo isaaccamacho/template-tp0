@@ -9,7 +9,7 @@ public class RegExGenerator {
 
     //public RegExGenerator(int maxLength) {
     //    this.maxLength = maxLength;
-    //}
+    //}hay que terminar
 
     // TODO: Uncomment parameters
     public List<String> generate(/*String regEx, int numberOfResults*/) {
